@@ -1,4 +1,4 @@
-# ExpressVPN Browser Extension
+# ExpressVPN Installers
 
 ## ExpressVPN
 
